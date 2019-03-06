@@ -1,0 +1,7 @@
+.bundle
+.idea
+.ruby-version
+
+vendor
+event_file.json
+packaged.yaml
